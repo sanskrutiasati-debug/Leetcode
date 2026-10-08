@@ -5,8 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/sanskrutiasati-debug/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [1539-kth-missing-positive-number](https://github.com/sanskrutiasati-debug/Leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Interactive
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/sanskrutiasati-debug/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Array
+|  |
+| ------- |
+| [1539-kth-missing-positive-number](https://github.com/sanskrutiasati-debug/Leetcode/tree/master/1539-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
