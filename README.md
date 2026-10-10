@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sanskrutiasati-debug/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0374-guess-number-higher-or-lower](https://github.com/sanskrutiasati-debug/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [1539-kth-missing-positive-number](https://github.com/sanskrutiasati-debug/Leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Interactive
@@ -13,5 +14,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sanskrutiasati-debug/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1539-kth-missing-positive-number](https://github.com/sanskrutiasati-debug/Leetcode/tree/master/1539-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
