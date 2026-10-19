@@ -28,8 +28,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/sanskrutiasati-debug/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sanskrutiasati-debug/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/sanskrutiasati-debug/Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [2643-row-with-maximum-ones](https://github.com/sanskrutiasati-debug/Leetcode/tree/master/2643-row-with-maximum-ones) |
 ## Matrix
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sanskrutiasati-debug/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2643-row-with-maximum-ones](https://github.com/sanskrutiasati-debug/Leetcode/tree/master/2643-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
