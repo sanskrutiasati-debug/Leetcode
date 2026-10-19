@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/sanskrutiasati-debug/Leetcode/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/sanskrutiasati-debug/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sanskrutiasati-debug/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sanskrutiasati-debug/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/sanskrutiasati-debug/Leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Interactive
 |  |
@@ -25,5 +26,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sanskrutiasati-debug/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sanskrutiasati-debug/Leetcode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sanskrutiasati-debug/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sanskrutiasati-debug/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/sanskrutiasati-debug/Leetcode/tree/master/1539-kth-missing-positive-number) |
+## Matrix
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sanskrutiasati-debug/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
